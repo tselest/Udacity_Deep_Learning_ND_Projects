@@ -10,8 +10,6 @@ The data comes from the UCI Machine Learning Database.
 
 **Project 2**: Landmark Classification and Tagging for Social Media - Convolutional Neural Networks
 
-
-
 In this project, you will apply the skills you have acquired in the Convolutional Neural Network (CNN) module to build a landmark classifier. You will go through the machine learning design process end-to-end: performing data preprocessing, designing and training CNNs, comparing the accuracy of different CNNs, and using your own images to heuristically evaluate your best CNN.
 
 **Project 3**: Generate TV Scripts - Reccurent Neural Networks
