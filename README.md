@@ -1,10 +1,15 @@
-# Udacity Deep Learning Nanodegree Projects
+# Udacity Deep Learning Nanodegree Projects - TBC
+
+<p align='center'>
+  
+<img src="https://user-images.githubusercontent.com/47558926/123519864-72011e80-d6b6-11eb-8d66-64eff640ba0e.png" />
+</p>
 
 <p align='center'>
 <img src="https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white" /> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-**Project 1**: Predicting Bike-Sharing Patterns - Neural Networks
+**Project 1**: [Predicting Bike-Sharing Patterns - Neural Networks](https://github.com/tselest/Udacity_Deep_Learning_ND_Projects/tree/main/Predicting%20Bike%20Sharing%20Patterns)
 
 ![bike-share-data-science-hero](https://user-images.githubusercontent.com/47558926/123308703-a943c400-d52c-11eb-8e64-7a74ae2f16fe.png)
 
@@ -12,7 +17,7 @@ In this project, you'll get to build a neural network from scratch to carry out 
 
 The data comes from the [UCI Machine Learning Database](https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset).
 
-**Project 2**: Landmark Classification and Tagging for Social Media - Convolutional Neural Networks
+**Project 2**: [Landmark Classification and Tagging for Social Media - Convolutional Neural Networks](https://github.com/tselest/Udacity_Deep_Learning_ND_Projects/tree/main/Landmark%20Classification%20and%20Tagging%20for%20Social%20Media)
 
 ![Landmark Classification](https://user-images.githubusercontent.com/47558926/123312104-9206d580-d530-11eb-8f58-9a37a15be704.jpg)
 
