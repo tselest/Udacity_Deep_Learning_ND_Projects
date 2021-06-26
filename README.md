@@ -1,5 +1,9 @@
 # Udacity Deep Learning Nanodegree Projects
 
+<p align='center'>
+<img src="https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white" /> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
 **Project 1**: Predicting Bike-Sharing Patterns - Neural Networks
 
 ![bike-share-data-science-hero](https://user-images.githubusercontent.com/47558926/123308703-a943c400-d52c-11eb-8e64-7a74ae2f16fe.png)
