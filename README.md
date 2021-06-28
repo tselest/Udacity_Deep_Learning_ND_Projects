@@ -1,8 +1,9 @@
 # Udacity Deep Learning Nanodegree Projects - TBC
 
 <p align='center'>
-  
+<a href="https://www.udacity.com/" target="_blank">
 <img src="https://user-images.githubusercontent.com/47558926/123519864-72011e80-d6b6-11eb-8d66-64eff640ba0e.png" />
+  </a>
 </p>
 
 <p align='center'>
