@@ -28,6 +28,8 @@ The data comes from [Udacity](https://udacity-dlnfd.s3-us-west-1.amazonaws.com/d
 
 **Project 3**: Generate TV Scripts - Reccurent Neural Networks
 
+![Capture (Custom)](https://user-images.githubusercontent.com/47558926/131215030-cd7d152b-7c5b-4d4b-b5ec-e3390e040606.PNG)
+
 **Project 4**: Generate Faces - Generative Adversarial Networks
 
 **Project 5**: Deploying a Sentiment Analysis Model - Deploying a Model
