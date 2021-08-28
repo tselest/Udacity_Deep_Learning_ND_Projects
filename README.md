@@ -32,4 +32,6 @@ The data comes from [Udacity](https://udacity-dlnfd.s3-us-west-1.amazonaws.com/d
 
 **Project 4**: Generate Faces - Generative Adversarial Networks
 
+![Capture (Custom) (1)](https://user-images.githubusercontent.com/47558926/131215164-e3d9c8f9-1b74-4346-9cb7-2495e8054116.PNG)
+
 **Project 5**: Deploying a Sentiment Analysis Model - Deploying a Model
