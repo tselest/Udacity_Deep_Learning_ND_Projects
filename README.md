@@ -1,4 +1,4 @@
-# Udacity Deep Learning Nanodegree Projects - TBC
+# Udacity Deep Learning Nanodegree Projects
 
 <p align='center'>
 <a href="https://www.udacity.com/" target="_blank">
